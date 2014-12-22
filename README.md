@@ -35,9 +35,12 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The true peace-maker laid forth in a sermon before his Maiesty at Theobalds. September 19, 1624. By 
+
 #####Body#####
-The true peace-maker laid forth in a sermon before his Maiesty at Theobalds. September 19, 1624. By 
+
+1. THE
+TRVE PEACE-MAKER.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
